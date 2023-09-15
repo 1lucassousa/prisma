@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316111098749",
+    "project_id": "prisma-73071",
+    "storage_bucket": "prisma-73071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316111098749:android:a55ece8c28a7b41be57214",
+        "android_client_info": {
+          "package_name": "com.prisma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATe0yVQk3lmFyT4X964Maaix0gpqLu_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
